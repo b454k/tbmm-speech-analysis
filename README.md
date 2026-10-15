@@ -38,7 +38,7 @@ This project collects those transcripts, splits them into **~196,000 individual 
 - **MHP:** nationalist vocabulary — Turkish, national, nation, movement
 - **Provinces:** Hatay → earthquake; Van and Diyarbakır → Kurdish identity; Şanlıurfa → electricity and agriculture
 
-> Full details, charts and discussion are in [`Project Report.docx`](Project%20Report.docx).
+> Full details, charts and discussion are in [`Project Report.pdf`](Project%20Report.pdf).
 
 ---
 
@@ -65,7 +65,7 @@ TBMM website ──► 1. Scrape ──► 2. Split into speeches ──► 3. A
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── Project Report.docx                  # Full written report
+├── Project Report.pdf                  # Full written report
 ├── interactive_tbmm_dashboard.py        # Step 6 — dashboard
 ├── requirements.txt                     # Dashboard dependencies
 └── Source Codes/
